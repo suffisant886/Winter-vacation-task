@@ -1,0 +1,219 @@
+{
+  "id": "2897665",
+  "name": "myproject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1070",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "451566",
+      "name": "充值",
+      "font_class": "chongzhi",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "749872",
+      "name": "7天包换",
+      "font_class": "7tianbaohuan",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "749874",
+      "name": "15天包换",
+      "font_class": "15tianbaohuan",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "2932815",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "4608968",
+      "name": "时钟",
+      "font_class": "shizhong",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "5387923",
+      "name": "箭头_向上_o",
+      "font_class": "jiantou_xiangshang_o",
+      "unicode": "eb90",
+      "unicode_decimal": 60304
+    },
+    {
+      "icon_id": "5460560",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "ec2e",
+      "unicode_decimal": 60462
+    },
+    {
+      "icon_id": "11239041",
+      "name": "企业",
+      "font_class": "qiye",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "15726742",
+      "name": "地图-地标",
+      "font_class": "ditu-dibiao",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "16588083",
+      "name": "老板",
+      "font_class": "laoban",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "17448867",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1360",
+      "name": "新浪微博",
+      "font_class": "xinlangweibo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1005776",
+      "name": "微信",
+      "font_class": "changyonglogo28",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "2486582",
+      "name": "短信",
+      "font_class": "duanxin",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5057530",
+      "name": "短信",
+      "font_class": "duanxin1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "5153245",
+      "name": "巧克力",
+      "font_class": "icon-test",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "5218781",
+      "name": "零食",
+      "font_class": "lingshi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6708757",
+      "name": "08-零食",
+      "font_class": "-lingshi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "7702695",
+      "name": "瓜子",
+      "font_class": "guazi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7702715",
+      "name": "松子",
+      "font_class": "songzi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7702722",
+      "name": "鸭脖",
+      "font_class": "yabo",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7702727",
+      "name": "吐司",
+      "font_class": "tusi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "7702728",
+      "name": "软心饼干",
+      "font_class": "ruanxinbinggan",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "7761492",
+      "name": "零食_坚果",
+      "font_class": "lingshi_jianguo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "7827566",
+      "name": "杯子蛋糕",
+      "font_class": "beizidangao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "26415673",
+      "name": "搜索图片，搜索照片",
+      "font_class": "a-sousuotupiansousuozhaopian",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "166177",
+      "name": "小三角up",
+      "font_class": "xiaosanjiaoup",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "49355",
+      "name": "天猫购物车 ",
+      "font_class": "gouwuche2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "18170317",
+      "name": "星,星星,星形,半星,实星",
+      "font_class": "star-full",
+      "unicode": "e9a1",
+      "unicode_decimal": 59809
+    }
+  ]
+}
